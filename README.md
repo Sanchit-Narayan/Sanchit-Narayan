@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://github.com/Sanchit-Narayan)
 <h1 align="center">Hi 👋, I'm Sanchit Narayan</h1>
 <h3 align="center">💡 Building with Purpose | Web Dev & ML Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif”>
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchit-narayan&label=Profile%20views&color=0e75b6&style=flat" alt="sanchit-narayan" /> </p>
 
